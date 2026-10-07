@@ -1,6 +1,6 @@
 <img src="banner.webp" alt="Minecraft warden in the deep dark" width="100%" />
 
-<h1 align="center">notskrib</h1>
+<h1 align="center">NotSkrib</h1>
 
 <p align="center">
   <a href="https://github.com/NotSkrib/NotSkrib">
